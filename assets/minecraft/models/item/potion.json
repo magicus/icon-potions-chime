@@ -62,14 +62,6 @@
       }
     },
     {
-      "model": "iconpotions:item/empty_potion",
-      "predicate": {
-        "nbt": {
-          "Potion": "minecraft:empty"
-        }
-      }
-    },
-    {
       "model": "iconpotions:item/weakness_potion_long",
       "predicate": {
         "nbt": {

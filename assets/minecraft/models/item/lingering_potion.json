@@ -62,14 +62,6 @@
       }
     },
     {
-      "model": "iconpotions:item/empty_linger",
-      "predicate": {
-        "nbt": {
-          "Potion": "minecraft:empty"
-        }
-      }
-    },
-    {
       "model": "iconpotions:item/weakness_linger_long",
       "predicate": {
         "nbt": {

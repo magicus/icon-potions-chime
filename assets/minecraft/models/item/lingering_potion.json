@@ -1,0 +1,345 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/potion_overlay",
+    "layer1": "item/lingering_potion"
+  },
+  "overrides": [
+    {
+      "model": "iconpotions:item/water_breathing_linger",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:water_breathing"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/water_breathing_linger_long",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:long_water_breathing"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/invisibility_linger",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:invisibility"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/invisibility_linger_long",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:long_invisibility"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/swiftness_linger_long",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:long_swiftness"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/swiftness_linger_strong",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:strong_swiftness"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/swiftness_linger",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:swiftness"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/empty_linger",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:empty"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/weakness_linger_long",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:long_weakness"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/weakness_linger",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:weakness"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/awkward_linger",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:awkward"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/harming_linger_strong",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:strong_harming"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/harming_linger",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:harming"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/slow_falling_linger_long",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:long_slow_falling"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/slow_falling_linger",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:slow_falling"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/mundane_linger",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:mundane"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/thick_linger",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:thick"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/poison_linger_strong",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:strong_poison"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/poison_linger_long",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:long_poison"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/poison_linger",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:poison"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/turtle_master_linger",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:turtle_master"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/turtle_master_linger_long",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:long_turtle_master"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/turtle_master_linger_strong",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:strong_turtle_master"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/fire_resistance_linger_long",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:long_fire_resistance"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/fire_resistance_linger",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:fire_resistance"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/luck_linger",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:luck"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/slowness_linger_long",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:long_slowness"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/slowness_linger",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:slowness"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/slowness_linger_strong",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:strong_slowness"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/healing_linger_strong",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:strong_healing"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/healing_linger",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:healing"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/night_vision_linger",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:night_vision"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/night_vision_linger_long",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:long_night_vision"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/strength_linger_strong",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:strong_strength"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/strength_linger_long",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:long_strength"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/strength_linger",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:strength"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/regeneration_linger_long",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:long_regeneration"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/regeneration_linger",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:regeneration"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/regeneration_linger_strong",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:strong_regeneration"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/leaping_linger",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:leaping"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/leaping_linger_long",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:long_leaping"
+        }
+      }
+    },
+    {
+      "model": "iconpotions:item/leaping_linger_strong",
+      "predicate": {
+        "nbt": {
+          "Potion": "minecraft:strong_leaping"
+        }
+      }
+    }
+  ]
+}
